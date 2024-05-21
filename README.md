@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Christopher Alexandre 👋
 
 <!--
 **JBMILHOUSE/JBMILHOUSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 Nome: **Christopher Alexandre**
 - 🌱 Sou desenvolvedor **frontend**
 - 🔭 Atualmente estudando **.NET**, **Spring Boot** e **Machine Learning**
 - ⚡ Curiosidade: Gosto de ouvir **músicas de animes**
