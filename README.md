@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨‍💻 Nome: **Christopher Alexandre**
+- 🌱 Sou desenvolvedor **frontend**
+- 🔭 Atualmente estudando **.NET**, **Spring Boot** e **Machine Learning**
+- ⚡ Curiosidade: Gosto de ouvir **músicas de animes**
+
+📫 Como me encontrar:
+- **Email**: [seu-email@example.com](mailto:christopher.alexandre.oliver@gmail.com)
+- **LinkedIn**: [linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/chris-oliveira-alexandre)
