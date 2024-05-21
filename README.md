@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Curiosidade: Gosto de ouvir **músicas de animes**
 
 📫 Como me encontrar:
-- **Email**: [seu-email@example.com](mailto:christopher.alexandre.oliver@gmail.com)
-- **LinkedIn**: [linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/chris-oliveira-alexandre)
+- **Email**: [christopher.alexandre.oliver@gmail.com](mailto:christopher.alexandre.oliver@gmail.com)
+- **LinkedIn**: [linkedin.com/in//chris-oliveira-alexandre](https://www.linkedin.com/in/chris-oliveira-alexandre)
